@@ -10,6 +10,7 @@ O objetivo deste projeto é introduzir vocês aos princípios básicos do React 
 ## O que vocês vão aprender
 - **Criação e Implantação do projeto React**: Aprender como criar e implantar o projeto React.
 - **Fundamentos do JSX**: Entender como o JSX combina marcação e lógica em um formato que o React pode processar.
+- **Componentes**: Aprender os fundamentos sobre componentes.
 - **Estrutura do projeto**: Como é a estrutura do projeto React.
 
 ## Estrutura do Projeto
