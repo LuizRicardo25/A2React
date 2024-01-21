@@ -2,7 +2,7 @@
 
 **Caros Alunos,**
 
-Sejam bem-vindos ao projeto "Primeiros Passos com React"! Este projeto foi especialmente desenvolvido para vocês, que estão começando a jornada no mundo do React. O foco aqui é entender o funcionamento básico do React, explorar seus conceitos fundamentais e familiarizar-se com o ambiente de desenvolvimento.
+Sejam bem-vindos ao projeto "Primeiros Passos com React"! Este projeto foi especialmente desenvolvido para vocês, que estão começando a jornada no mundo do React. O foco aqui é entender o funcionamento básico do React, explorar seus conceitos fundamentais e familiarizar-se com o ambiente de desenvolvimento .
 
 ## Objetivo do Projeto
 O objetivo deste projeto é introduzir vocês aos princípios básicos do React de uma maneira prática e compreensível. Aqui, vocês não encontrarão componentes complexos ou funcionalidades avançadas. Em vez disso, o projeto está configurado para permitir que vocês explorem e compreendam as bases sobre as quais o React é construído.
